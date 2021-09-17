@@ -7,3 +7,6 @@
 [submodule "AgentBasedModel"]
 	path = AgentBasedModel
 	url = git@github.com:aus-covid-modelling/AgentBasedModel.git
+[submodule "NationalModelPlotting"]
+	path = NationalModelPlotting
+	url = git@github.com:aus-covid-modelling/NationalModelPlotting.git
