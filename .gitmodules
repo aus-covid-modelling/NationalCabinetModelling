@@ -1,3 +1,6 @@
 [submodule "TransmissionPotential"]
 	path = TransmissionPotential
 	url = https://github.com/goldingn/covid19_australia_interventions.git
+[submodule "ClinicalPathwaysModel"]
+	path = ClinicalPathwaysModel
+	url = git@github.com:aus-covid-modelling/ClinicalPathwaysModel.git
