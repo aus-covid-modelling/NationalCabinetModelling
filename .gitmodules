@@ -4,3 +4,6 @@
 [submodule "ClinicalPathwaysModel"]
 	path = ClinicalPathwaysModel
 	url = git@github.com:aus-covid-modelling/ClinicalPathwaysModel.git
+[submodule "AgentBasedModel"]
+	path = AgentBasedModel
+	url = git@github.com:aus-covid-modelling/AgentBasedModel.git
