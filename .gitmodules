@@ -1,0 +1,3 @@
+[submodule "TransmissionPotential"]
+	path = TransmissionPotential
+	url = https://github.com/goldingn/covid19_australia_interventions.git
