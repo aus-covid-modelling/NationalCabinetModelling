@@ -4,7 +4,7 @@ The Peter Doherty Institute for Infection and Immunity has produced modelling to
 There are four submodules: TransmissionPotential, AgentBasedModel, ClinicalPathwaysModel and NationalModelPlotting.
 
 ## Transmission Potential
-The transmission potential code is stored as part of a much larger collection of work relating to situational awareness in Australia, maintained by Prof. Nick Golding. The relevant piece of code for this work is in R/reopening.R.
+The transmission potential code is stored as part of a much larger collection of work relating to situational awareness in Australia, maintained by Prof. Nick Golding, Curtin University. The relevant piece of code for this work is in R/reopening.R.
 
 ## Dynamic model outputs
 Outputs from the agent based model are fed into the clinical pathways model, and outputs from the clinical pathways model are fed into the national model plotting. Please see the readme in each of these three submodules for more specifics on running these code blocks.
