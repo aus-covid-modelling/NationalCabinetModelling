@@ -1,5 +1,5 @@
 # Modelling for National Cabinet
-The Peter Doherty Institute for Infection and Immunity has produced modelling to advise on the National Plan to transition Australia's National COVID response. The technical report associated with this work can be viewed [here](https://www.doherty.edu.au/news-events/news/doherty-institute-modelling-report-for-national-cabinet). This repository contains submodules for each of the parts of the code used to generate the reports.
+The Peter Doherty Institute for Infection and Immunity has produced modelling to advise on the National Plan to transition Australia's National COVID response. Technical reports associated with this work can be viewed [here](https://www.doherty.edu.au/news-events/news/doherty-institute-modelling-report-for-national-cabinet) and [here](https://www.doherty.edu.au/news-events/news/doherty-institute-modelling-report-for-national-cabinet-sep-18). This repository contains submodules for each of the parts of the code used to generate the reports.
 
 There are four submodules: TransmissionPotential, AgentBasedModel, ClinicalPathwaysModel and NationalModelPlotting.
 
